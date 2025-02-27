@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm LtBrain 👋
 
-<!--
-**LtBrain/LtBrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=LtBrain)
 
-Here are some ideas to get you started:
+## About Me
+- 🚀 Passionate about technology and coding
+- 🛠 Skilled in GitHub Copilot and AI development
+- 🌱 Always learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![LtBrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=LtBrain&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LtBrain&layout=compact&theme=radical)
+
+## Connect with Me
+- [Email](mailto:ltbrain@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ltbrain)
+- [Twitter](https://twitter.com/ltbrain)
+
+## Projects
+- [Project 1](https://github.com/LtBrain/project1) - Description of project 1
+- [Project 2](https://github.com/LtBrain/project2) - Description of project 2
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LtBrain&theme=radical)
